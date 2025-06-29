@@ -20,7 +20,7 @@ I'm currently enrolled in the **ALX Back-End Web Development Program**, where I'
 - Solving meaningful problems 🧩
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [!LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 📧 Email: rudolphmafika@gmail.com
 
 Thanks for visiting! 🚀
