@@ -4,14 +4,15 @@ I'm a tech professional with a background in IT support and a growing skill set 
 
 ## 🧰 Tech Stack:
 - 💻 Languages: Python, JavaScript, HTML, CSS
-- 🛠️ Tools & Frameworks: Flask, Node.js, SQL, Git
-- 🧪 Testing & Debugging: Postman, pytest, Chrome DevTools
+- 🛠️ Tools & Frameworks: Flask, Django, SQL, Git
+- 🧪 Testing & Debugging: Postman, Chrome DevTools
 - 🌐 Currently learning: Docker, MySQL, API design
 
 ## 🚀 Projects & Learning:
-I'm currently enrolled in the **ALX Back-End Web Development Program**, where I'm gaining deep technical experience through real-world projects and peer collaboration. I’ve also completed several work-integrated learning programs and coding bootcamps that boosted both my programming and problem-solving abilities.
+I'm currently enrolled in the **ALX Back-End Web Development Program**, where I'm gaining deep technical experience through real-world projects and peer collaboration. I’ve also completed several work-integrated learning programs and coding Bootcamps that boosted both my programming and problem-solving abilities.
 - Simple survey web application
 - Web-based Library Management system
+- Courier app 
 
 ## 💡 What I Value:
 - Continuous learning 📚
